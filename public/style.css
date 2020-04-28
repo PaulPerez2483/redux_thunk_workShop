@@ -1,0 +1,9 @@
+.nav {
+	display: flex;
+	align-items: stretch;
+	margin: 15px 0px;
+}
+
+.nav > h1 {
+	flex-grow: 3;
+}
